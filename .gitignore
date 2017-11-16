@@ -4,4 +4,7 @@
 /**/build.xml
 /**/*.policy
 .idea/
-/java-concurrent-animated/javaConcurrentAnimatedMaven.iml
+target
+dependency-reduced-pom.xml
+*.iml
+*~
